@@ -1,0 +1,20 @@
+{
+  "name": "vue3-echarts-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.2.2",
+    "lodash": "^4.17.21",
+    "sass": "^1.43.4",
+    "vue": "^3.2.16",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
